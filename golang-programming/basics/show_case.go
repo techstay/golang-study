@@ -9,4 +9,7 @@ func Show() {
 	Pointer()
 	fmt.Println("------------控制流------------")
 	ControllFlow()
+	fmt.Println("------------闭包------------")
+	Closure()
+
 }
