@@ -11,5 +11,6 @@ func Show() {
 	ControllFlow()
 	fmt.Println("------------闭包------------")
 	Closure()
-
+	fmt.Println("------------结构体------------")
+	Struct()
 }
