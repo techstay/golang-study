@@ -13,4 +13,9 @@ func Show() {
 	Closure()
 	fmt.Println("------------结构体------------")
 	Struct()
+	fmt.Println("------------数组------------")
+	Array()
+	fmt.Println("------------切片------------")
+	Slice()
+	Range()
 }
