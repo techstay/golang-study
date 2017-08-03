@@ -18,4 +18,6 @@ func Show() {
 	fmt.Println("------------切片------------")
 	Slice()
 	Range()
+	fmt.Println("------------Map------------")
+	Map()
 }
